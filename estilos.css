@@ -1,0 +1,35 @@
+#sur{
+    background-color: rgb(88, 173, 212);
+    padding-left: 620px;
+}
+#norte{
+    background-color: rgb(136, 89, 180);
+    padding-left: 600px;
+}
+#centro{
+    background-color: rgb(172, 71, 71);
+    padding-left: 590px;
+}
+
+#titulo{
+    margin-top: 5px;
+    font-size: 30px;
+}
+
+.tama{
+    font-size: 25px;
+}
+
+nav ul{
+    background-color: beige;
+    border: 1px solid black;
+}
+
+#imagenes{
+    padding: 20px;
+    padding-left: 350px;
+}
+
+#cabecera{
+    padding: 2px;
+}
